@@ -4,7 +4,7 @@ If you need to contact me: duarte.vshenriques@gmail.com
 
 ### Here´s my stats (just starting)
 
-![Anurag's GitHub stats](http://github-readme-stats-nu-murex-11.vercel.app/api?username=Duarte-Henriques&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats-nu-murex-11.vercel.app/api?username=Duarte-Henriques&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duarte-Henriques)](https://github.com/Duarte-Henriques/github-readme-stats)
 
